@@ -1,4 +1,19 @@
-.class-1, .class-2, .class-3 {
+.odd {
     background-color:#FF8BA0;
-    
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+#id-1 {
+color: blue;
+font-size: 36px;
+}
+
+.odd-3 {
+    font-size: 24px;
+}
+
+#id-2 {
+    background-color: #91EE91;
+    font-size: 24px;
+    font-weight: bold;
 }
